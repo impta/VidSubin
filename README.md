@@ -57,7 +57,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/VCPlayerBot)
 
 ## Deploy to Railway
-<p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+<p><a href=https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fimpta%2FVidSubin&envs=ADMINS_ONLY%2CADMINS%2CAPI_ID%2CAPI_HASH%2CBOT_TOKEN%2CCHAT%2CDATABASE_URI%2CLOG_GROUP%2CQUALITY%2CSESSION_STRING%2CREPLY_MESSAGE%2CSTARTUP_STREAM%2CCUSTOM_QUALITY> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
  
 ## Deploy to VPS
